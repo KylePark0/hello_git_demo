@@ -1,3 +1,4 @@
 begin
-    print("Bad day.")
+    print("Good day!")
+    return
 end
