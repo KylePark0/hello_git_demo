@@ -1,3 +1,3 @@
 begin
-    print("Hello World!")
+    print("Bad day.")
 end
